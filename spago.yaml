@@ -1,0 +1,16 @@
+package:
+  name: myblog-api
+  dependencies:
+    - codec-argonaut
+    - console
+    - effect
+    - fmt
+    - httpurple
+    - js-promise-aff
+    - prelude
+    - run
+
+workspace:
+  packageSet:
+    registry: 60.6.0
+  extraPackages: {}

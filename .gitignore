@@ -1,0 +1,10 @@
+.DS_Store
+.psci_modules
+.spago
+dist
+node_modules
+output 
+output-es 
+.env
+.psc-ide-port
+.psc-repl 

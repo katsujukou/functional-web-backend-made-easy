@@ -1,0 +1,17 @@
+.psci_modules 
+.spago 
+
+dist
+node_modules
+output
+src
+.dockerignore
+.env
+.psc-ide-port
+.purs-repl
+compose.yaml
+Dockerfile
+flake.lock
+flake.nix
+spago.lock
+spago.yaml
